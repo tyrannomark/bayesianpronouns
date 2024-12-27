@@ -1,0 +1,9 @@
+jupyter
+notebook
+numpy
+scipy
+matplotlib
+functools
+collections
+operator
+tmefunc5
